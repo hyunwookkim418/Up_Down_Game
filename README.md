@@ -1,7 +1,7 @@
 # Up_Down_Game
 ![Up_Down_Game_screenshot](https://github.com/hyunwookkim418/Up_Down_Game/assets/101606092/4b0bd593-64c1-4c1c-8b84-c944edb33d1e)
 
-## Demo: updowngame100.netlify.app.
+## Demo: updowngame100.netlify.app
 
 ## Features
 * The computer selects a random number when the game starts.
